@@ -10,7 +10,7 @@ layout: default
 
 <img src="static/imgs/AvgInt.png" alt="Graph of Average Interest Rating Between Econ/Business and Other students." width="500"/>
 
-<img src="imgs/IntbyStudentGroup.png" alt="Graph of Interest between Econ/Business and Other students." width="500"/>
+<img src="static/imgs/IntbyStudentGroup.png" alt="Graph of Interest between Econ/Business and Other students." width="500"/>
 
 <img src="static/imgs/AvgVal.png" alt="Graph of Average Valuable Rating Between Econ/Business and Other students." width="500"/>
 
